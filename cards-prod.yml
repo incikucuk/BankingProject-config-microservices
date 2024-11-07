@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Cards Microservice Prod-card-prodd API's"
+  message: "Welcome to Cards Microservice Prod-card-NEW API's"
   contactDetails:
     name: "ikucuk-card-prod"
     email: "ikucuk-card-prod@example.com"
