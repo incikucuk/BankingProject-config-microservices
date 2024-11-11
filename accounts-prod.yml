@@ -2,7 +2,7 @@ build:
   version: "2.7"
 
 accounts:
-  message: "Welcome to Accounts Microservice related prodd webhooks API's"
+  message: "Welcome to Accounts Microservice related prodd webhooks-new API's"
   contactDetails:
     name: "ikucuk - product owner"
     email: "{cipher}5e30e496bfdd475b6ab79e397f82a04d62cff9f0e03fa2864e439f1c376494a8b6b3ee66becb5ee8bb191de40588d0e7"
